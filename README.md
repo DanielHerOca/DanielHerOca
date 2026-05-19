@@ -1,23 +1,71 @@
-# Backend Learning Journey
+# Hi, I'm Daniel 👋
 
-Repository focused on strengthening backend development,
-enterprise integration, APIs, Java, Spring Boot, WSO2,
-security, and software architecture.
+Backend Developer focused on enterprise integration, APIs,
+Java, Spring Boot and WSO2 solutions.
 
-## Topics
+Currently strengthening backend engineering skills through
+hands-on projects, enterprise-oriented architecture and
+integration-focused implementations.
 
-- Programming Logic
-- Java Fundamentals
-- Object-Oriented Programming
-- REST APIs
+---
+
+## Tech Stack
+
+### Backend
+- Java
 - Spring Boot
-- JWT Security
-- Oracle & JPA
-- Swagger Documentation
-- WSO2 Integration
-- Enterprise Architecture
+- REST APIs
+- JWT Authentication
+- Maven
 
-## Goal
+### Integration
+- WSO2 API Manager
+- WSO2 Enterprise Integrator / Micro Integrator
+- XML & JSON Transformations
+- API Orchestration
+- Routing & Error Handling
 
-Build a complete backend and integration portfolio
-with enterprise-oriented projects and best practices.
+### Database
+- Oracle Database
+- JPA / Hibernate
+- SQL
+
+### Tools
+- Postman
+- Swagger / OpenAPI
+- Git & GitHub
+- Docker (Learning)
+
+---
+
+## Current Focus
+
+- Programming Logic & Problem Solving
+- Backend Architecture
+- Enterprise Integration Patterns
+- Secure API Development
+- Scalable Backend Systems
+- Clean Code & Best Practices
+
+---
+
+## Featured Repository
+
+📘 Backend Learning Journey  
+A structured repository containing:
+- backend fundamentals,
+- mini projects,
+- REST APIs,
+- Spring Boot implementations,
+- WSO2 integrations,
+- security practices,
+- and enterprise-oriented solutions.
+
+---
+
+## Goals
+
+- Build production-style backend projects
+- Strengthen enterprise integration knowledge
+- Improve software architecture skills
+- Create a professional backend portfolio
